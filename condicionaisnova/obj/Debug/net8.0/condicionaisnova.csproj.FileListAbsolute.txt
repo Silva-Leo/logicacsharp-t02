@@ -1,0 +1,15 @@
+C:\Users\victor.pcribeiro\source\repos\condicionaisnova\bin\Debug\net8.0\condicionaisnova.exe
+C:\Users\victor.pcribeiro\source\repos\condicionaisnova\bin\Debug\net8.0\condicionaisnova.deps.json
+C:\Users\victor.pcribeiro\source\repos\condicionaisnova\bin\Debug\net8.0\condicionaisnova.runtimeconfig.json
+C:\Users\victor.pcribeiro\source\repos\condicionaisnova\bin\Debug\net8.0\condicionaisnova.dll
+C:\Users\victor.pcribeiro\source\repos\condicionaisnova\bin\Debug\net8.0\condicionaisnova.pdb
+C:\Users\victor.pcribeiro\source\repos\condicionaisnova\obj\Debug\net8.0\condicionaisnova.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\victor.pcribeiro\source\repos\condicionaisnova\obj\Debug\net8.0\condicionaisnova.AssemblyInfoInputs.cache
+C:\Users\victor.pcribeiro\source\repos\condicionaisnova\obj\Debug\net8.0\condicionaisnova.AssemblyInfo.cs
+C:\Users\victor.pcribeiro\source\repos\condicionaisnova\obj\Debug\net8.0\condicionaisnova.csproj.CoreCompileInputs.cache
+C:\Users\victor.pcribeiro\source\repos\condicionaisnova\obj\Debug\net8.0\condicionaisnova.sourcelink.json
+C:\Users\victor.pcribeiro\source\repos\condicionaisnova\obj\Debug\net8.0\condicionaisnova.dll
+C:\Users\victor.pcribeiro\source\repos\condicionaisnova\obj\Debug\net8.0\refint\condicionaisnova.dll
+C:\Users\victor.pcribeiro\source\repos\condicionaisnova\obj\Debug\net8.0\condicionaisnova.pdb
+C:\Users\victor.pcribeiro\source\repos\condicionaisnova\obj\Debug\net8.0\condicionaisnova.genruntimeconfig.cache
+C:\Users\victor.pcribeiro\source\repos\condicionaisnova\obj\Debug\net8.0\ref\condicionaisnova.dll

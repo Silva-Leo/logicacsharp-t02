@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "condicionaisnova/1.0.0": {
+        "runtime": {
+          "condicionaisnova.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "condicionaisnova/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
